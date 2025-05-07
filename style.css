@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 255, 200);
+}
+h1{
+    color: blue;
+}
+h2{
+    color: tomato;
+}
+h3{
+    color: steelblue;
+}
+h4{
+    color: cadetblue;
+}
+h5{
+    color: chocolate;
+}
+h6{
+    color: teal;
+}
+span{
+    color: coral;
+}
+p{
+    font-weight: bold;
+}
